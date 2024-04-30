@@ -1,9 +1,9 @@
 {
-    "name": "facebook/graph-sdk",
-    "description": "Facebook SDK for PHP",
+    "name": "hitgrab/php-graph-sdk",
+    "description": "Facebook SDK for PHP v8.x",
     "keywords": ["facebook", "sdk"],
     "type": "library",
-    "homepage": "https://github.com/facebook/php-graph-sdk",
+    "homepage": "https://github.com/hitgrab/php-graph-sdk",
     "license": "Facebook Platform",
     "authors": [
         {
@@ -32,11 +32,6 @@
     "autoload-dev": {
         "psr-4": {
             "Facebook\\Tests\\": "tests/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "5.x-dev"
         }
     }
 }
