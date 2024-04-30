@@ -315,7 +315,7 @@ class FacebookBatchRequest extends FacebookRequest implements IteratorAggregate,
     /**
      * @inheritdoc
      */
-    public function offsetGet($offset)
+    public function offsetGet($offset):
     {
         return isset($this->requests[$offset]) ? $this->requests[$offset] : null;
     }
