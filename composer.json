@@ -1,7 +1,7 @@
 {
     "name": "hitgrab/php-graph-sdk",
     "version": "6.0.0",
-    "description": "Facebook SDK for PHP v8.x",
+    "description": "Facebook SDK for PHP 8.x",
     "homepage": "https://github.com/hitgrab/php-graph-sdk",
     "license": "proprietary",
     "authors": [
